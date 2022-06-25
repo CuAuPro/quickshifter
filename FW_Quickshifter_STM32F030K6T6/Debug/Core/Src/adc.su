@@ -1,0 +1,4 @@
+adc.c:30:6:MX_ADC_Init	40	static
+adc.c:78:6:HAL_ADC_MspInit	56	static
+adc.c:108:6:HAL_ADC_MspDeInit	16	static
+adc.c:133:6:HAL_ADC_LevelOutOfWindowCallback	24	static

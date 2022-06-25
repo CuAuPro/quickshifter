@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name quickshifter-rescue)(type Legacy)(uri ${KIPRJMOD}/quickshifter-rescue.lib)(options "")(descr ""))
+)
